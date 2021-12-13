@@ -60,6 +60,7 @@
 
 
 .jar file hashes
+
 	"bf4f41403280c1b115650d470f9b260a5c9042c04d9bcc2a6ca504a66379b2d6": "./apache-log4j-2.0-alpha2-bin/log4j-core-2.0-alpha2.jar",
 	"58e9f72081efff9bdaabd82e3b3efe5b1b9f1666cefe28f429ad7176a6d770ae": "./apache-log4j-2.0-beta1-bin/log4j-core-2.0-beta1.jar",
 	"ed285ad5ac6a8cf13461d6c2874fdcd3bf67002844831f66e21c2d0adda43fa4": "./apache-log4j-2.0-beta2-bin/log4j-core-2.0-beta2.jar",
